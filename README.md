@@ -2,8 +2,10 @@
 
 <h3 align="center">
   <a href="https://github.com/gitrav3n" target="_blank">🔐 CyberSec Enthusiast</a> |
-  <a href="https://www.linkedin.com/in/devika-v-s-86463395/" target="_blank">🌐 CCNA Certified</a> |
-  <a href="https://www.linkedin.com/in/devika-v-s-86463395/" target="_blank">🛡️ Pentester</a>
+  <a href="https://www.linkedin.com/in/therav3n/" target="_blank">🌐 CCNA Certified</a> |  
+  <img width="433" height="30" alt="image" src="https://github.com/user-attachments/assets/70cbc158-da87-4258-8ce4-0609ebe20fb5" />
+
+  <a href="https://www.linkedin.com/in/therav3n/" target="_blank">🛡️ Pentester</a>
 </h3>
 
 <p align="center"><strong>🧛‍♀️ Alias:</strong> <span style="color:#ff79c6;">rav3n</span></p>
@@ -30,7 +32,7 @@
 ## 📩 Connect With Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/devika-v-s-86463395/" target="_blank">
+  <a href="https://www.linkedin.com/in/therav3n/" target="_blank">
     <img align="left" alt="gitrav3n | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://www.instagram.com/dev.ka_s/" target="_blank">
