@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <title>rav3n | Cybersecurity Analyst</title>
-  <link rel="stylesheet" href="style.css" />
-  <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
-</head>
-<body>
-  <div class="terminal">
-    <p class="typed-text"></p>
-  </div>
 
-  <div class="container">
     
 <h1>
   👩‍💻 Hi, I'm <span class="highlight">Devika</span>
