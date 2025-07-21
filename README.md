@@ -11,7 +11,7 @@
 <p align="center">⚔️ <i>Cybersecurity isn’t a career, it’s a battlefield!</i></p>
 
 ---
-<img src="https://tryhackme-badges.s3.amazonaws.com/DevikaSNair.png" alt="Your Image Badge" />
+<p align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/therav3n.png" alt="Your Image Badge" /></p>
 
 ## 🛠️ CyberSec Projects
 
